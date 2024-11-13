@@ -1,2 +1,2 @@
-python Xvirus.py
+python main.py
 pause
